@@ -1,4 +1,4 @@
-# Lab 6: Azure Backup & Recovery
+# Lab 6: Azure Backup (Configuration & Monitoring)
 
 ## 🎯 Objective
 Configure Azure Backup using a Recovery Services Vault, apply backup policies to virtual machines, and validate restore point creation for business continuity and disaster recovery (BCDR).
